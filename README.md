@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 I am Linh (or you can call me Lynn), an undergraduate student majoring in Computer Science and Statistics
+🔭 I am interested in software engineering and data analytics in general
+⚡ Currently, I am working on projects focused on the applications of AI/ML
+📫 Find me via [LinkedIn](https://www.linkedin.com/in/linh-do-0327371b2/) or email at do24l@mtholyoke.edu
+
