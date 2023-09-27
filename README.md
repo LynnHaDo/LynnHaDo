@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 
 
-### Languages and Tools 👩‍💻
+### I am learning 👩‍💻
 
 <p align="left">
   <a href="https://https://www.python.org" target="_blank"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" alt="python" height="40" margin="0 15 0 0"/></a> 
