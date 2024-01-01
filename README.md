@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
 ### Connect with me 🔗
 
-<p><a href="https://linkedin.com/in/linh-do-0327371b2/" target="blank"><img align="center" src="images/linkedin.png" alt="Linh Do" height="30" width="40" /></a>
-<a href="https://huggingface.co/linhdo" target="blank"><img align="center" src="images/hf.png" alt="linhdo" height="30" width="40" /></a>
+<p><a href="https://linkedin.com/in/linh-do-0327371b2/" target="blank"><img align="center" src="images/linkedin.png" alt="Linh Do" height="40" /></a>
+<a href="https://huggingface.co/linhdo" target="blank"><img align="center" src="images/hf.png" alt="linhdo" height="40" /></a>
 <a href="mailto:do24l@mtholyoke.edu" target="blank"><img align="center" src="images/gmail.png" alt="gmail" height="40"/></a>
 </p>
 
