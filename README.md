@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🔭 I am interested in software engineering and data analytics in general
   
-⚡ Currently, I am working on my personal website using ReactJS, and also projects focused on the applications of AI/ML
+⚡ Currently, I am working on building applications (Web/Mobile), and also projects focused on the applications of Statistics/AI/ML
 
 
 
