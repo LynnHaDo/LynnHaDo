@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ### I am learning 👩‍💻
 
 <p align="left">
-  <a href="https://https://www.python.org" target="_blank"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" alt="python" height="40" margin="0 15 0 0"/></a> 
+  <a href="https://https://www.python.org" target="_blank"><img src="images/python.png" alt="python" height="40" margin="0 15 0 0"/></a> 
   <a href="https://www.java.com/en/" target="_blank"><img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="java" height="40" margin="0 15 0 0"/></a> 
   <a href="https://react.dev/" target="_blank"><img src="images/react-2.svg" alt="reactjs" height="40" margin="0 15 0 0"/></a> 
   <a href="https://pytorch.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" alt="pytorch" height="40" margin="0 15 0 0"/></a> 
