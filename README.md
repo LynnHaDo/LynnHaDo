@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I am Linh (or you can call me Lynn), an undergraduate student majoring in Computer Science and Statistics
+🌱 I am Linh (nickname: Lynn), a rising junior majoring in Computer Science and Statistics
 
-🔭 I am interested in software engineering and data analytics in general
+🔭 **Focus**: full-stack development (Web/Mobile) and machine learning
   
-⚡ Currently, I am working on building applications (Web/Mobile), and also projects focused on the applications of Statistics/AI/ML
+⚡ **Current projects**: Question and Answer app (Angular/Django Web app that leverages question classification models), ConvoBot (ReactNative mobile app that integrates ChatGPT APIs)
 
-
+⚒️ **Summer**: Java Developer Intern @ VNEXT Software, Software Engineering Intern @ FHN-GLC, FPT Software
 
 ### Connect with me 🔗
 
@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 <a href="https://huggingface.co/linhdo" target="blank"><img align="center" src="images/hf.png" alt="linhdo" height="40" /></a>
 <a href="mailto:do24l@mtholyoke.edu" target="blank"><img align="center" src="images/gmail.png" alt="gmail" height="40"/></a>
 </p>
-
 
 
 ### I am learning 👩‍💻
