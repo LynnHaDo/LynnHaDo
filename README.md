@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   
 ⚡ **Current projects**: Question and Answer app (Angular/Django Web app that leverages question classification models), ConvoBot (ReactNative mobile app that integrates ChatGPT APIs)
 
-⚒️ **Summer**: Java Developer Intern @ VNEXT Software, Software Engineering Intern @ FHN-GLC, FPT Software
+📍 **Summer 2024**: Java Developer Intern @ VNEXT Software, Software Engineering Intern @ FHN-GLC, FPT Software
 
 ### Connect with me 🔗
 
