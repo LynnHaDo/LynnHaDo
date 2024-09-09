@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🔭 **Focus**: full-stack development (Web/Mobile) and machine learning
   
-⚡ **Current projects**: Question and Answer app (Angular/Django Web app that leverages question classification models), ConvoBot (ReactNative mobile app that integrates ChatGPT APIs)
+⚡ **Current projects**: ConvoBot (ReactNative mobile app that integrates ChatGPT APIs), GestureVerse (NextJS choose-your-own-adventure app with hand gestures detection and classification), Uber clone (pending)
 
 📍 **Summer 2024**: Java Developer Intern @ VNEXT Software, Undergraduate Researcher @ Mount Holyoke College
 
