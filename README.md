@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I am Linh (nickname: Lynn), a rising junior majoring in Computer Science and Statistics
+🌱 I am Linh (nickname: Lynn), a junior majoring in Computer Science and Statistics
 
 🔭 **Focus**: full-stack development (Web/Mobile) and machine learning
   
