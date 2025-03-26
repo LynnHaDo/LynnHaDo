@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 * Current: Uber clone (SwiftUI iOS app)
 * Past: ConvoBot (ReactNative mobile app that integrates ChatGPT APIs), GestureVerse (NextJS choose-your-own-adventure app with hand gestures detection and classification), Question and Answer (Angular, Django app using K-Means clustering)
 
-📍 **Summer 2025**: Software Development Intern @ Amazon
+📍 **Summer 2025**: Software Development Intern @ Amazon 
+
 📍 **Summer 2024**: Java Developer Intern @ VNEXT Software, Undergraduate Researcher @ Mount Holyoke College
 
 ### Connect with me 🔗
