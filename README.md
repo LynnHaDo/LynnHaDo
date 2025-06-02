@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 🔭 **Focus**: full-stack development (Web/Mobile) and machine learning
   
 ⚡ **Projects**: 
-* Current: Uber clone (SwiftUI iOS app)
+* Current: SnipLog (SaaS NextJS code journal app)
 * Past: ConvoBot (ReactNative mobile app that integrates ChatGPT APIs), GestureVerse (NextJS choose-your-own-adventure app with hand gestures detection and classification), Question and Answer (Angular, Django app using K-Means clustering)
 
 📍 **Summer 2025**: Software Development Intern @ Amazon 
