@@ -38,14 +38,23 @@ Here are some ideas to get you started:
 
 ### I am learning 👩‍💻
 
+#### Languages
+
 <p align="left">
   <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" height="26" margin="0 15 0 0"/></a> 
   <a href="https://www.java.com/en/" target="_blank"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" height="26" margin="0 15 0 0"/></a> 
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" height="26" margin="0 15 0 0"/></a> 
-  <a href="https://rubyonrails.org/" target="_blank"><img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="ruby-on-rails" height="26" margin="0 15 0 0"/></a> 
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" height="26" margin="0 15 0 0"/></a> 
+  <a href="https://developer.apple.com/swift/" target="_blank"><img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="swift" height="26" margin="0 15 0 0"/></a> 
+</p>
+
+#### Frameworks
+
+<p align="left">
   <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs" height="26" margin="0 15 0 0"/></a>
   <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" height="26" margin="0 15 0 0"/></a> 
   <a href="https://angular.io/" target="_blank"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)" alt="angular" height="26" margin="0 15 0 0"/></a> 
   <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="spring-boot" height="26" margin="0 15 0 0"/></a> 
   <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="django" height="26" margin="0 15 0 0"/></a> 
+  <a href="https://rubyonrails.org/" target="_blank"><img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="ruby-on-rails" height="26" margin="0 15 0 0"/></a> 
 </p>
